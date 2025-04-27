@@ -11,8 +11,7 @@ def write_name(name, x, y):
     t.pendown()
     t.write(name, font=("Arial", 40, "bold"))
 
-# Write the name "Taps"
-write_name("Taps", -100, 0)
+write_name("FELIX", -100, 0)
 
 # Hide turtle and display window
 t.hideturtle()
